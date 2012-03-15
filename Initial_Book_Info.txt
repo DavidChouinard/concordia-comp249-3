@@ -1,0 +1,15 @@
+900876512 Core_Java 2007 Mike_Simon 129.99 568
+765867999 Java_Applications_for_Programmers 2010 David_Wilson_and_Jack_Westman 173.25 672
+465979798 From_Java_to_C++ 2008 Linda_Jackson 118.73 439
+760098908 Microsoft_VC++ 2006 Garry_Wesley 165.20 416
+529086890 Software_Engineering 2005 Alain_Macmillan 219.99 651
+765867999 Visual_Basic	2004 Mary_Rosen 108.33 388
+529086890 Database_Systems 2007 Peter_Jones_and_Jack_Lewis 157.87 862
+800003243 VLSI 2008 Martha_Niclson 117.29 360
+200900210 C_# 2007 D._Smith 109.99 387
+200900210 Cellular_Communications 2010 Jones_Tomson 127.87 162
+542087665 Pattern_Recognition 1998 Sam_Davis 212.59 328
+900876512 Programming_Methodologies 2009 Steve_A._Richmond 182.95 590
+900876512 OO_Programming 2008 Frank_Raymond 182.25 439
+900876512 Design_Pattern 2002 Jay_Franklin 122.15 217
+900876512 Networking_and_Data_Communications 2010 Pete_Jonson 229.25 724
